@@ -1,0 +1,28 @@
+{
+    "angryThings":[
+        {
+            "race":"Goblin",
+            "cr":0.125,
+            "type":"humanoid",
+            "environment":["Hill", "Cave", "Grassland", "Mountain"]
+        },
+        {
+            "race":"Orc",
+            "cr":0.5,
+            "type":"humanoid",
+            "environment":["Hill", "Cave", "Grassland", "Mountain"]
+        },
+        {
+            "race":"Troll",
+            "cr":0.5,
+            "type":"humanoid",
+            "environment":["Hill", "Cave", "Grassland", "Mountain"]
+        },
+        {
+            "race":"Dragon",
+            "cr":20,
+            "type":"dragon",
+            "environment":["Mountain"]
+        }
+    ]
+}
